@@ -1,0 +1,13 @@
+pandas>=2.2
+numpy>=1.26
+seaborn>=0.13
+matplotlib>=3.8
+nltk>=3.9
+transformers>=4.44
+scipy>=1.11
+tqdm>=4.66
+torch>=2.3
+jupyter>=1.0
+ipykernel>=6.29
+
+
